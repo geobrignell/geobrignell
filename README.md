@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geobrignell
-- 👀 I’m interested in data science and cyber security.
-- 🌱 I’m currently studying Physics at the University of Bristol as well as various online courses.
+- 👀 Always looking for something new to learn! Currently enjoying cybersecurity Capture the Flag puzzles on HackTheBox and learning various data science techniques with the goal of building my own fantasy football prediction algorithm.
+- 🌱 Currently completing a BSc Physics with Scientific Computing Degree from the University of Bristol.
 - 📫 You may reach me at georgebrignellcash@gmail.com
 
 <!---
