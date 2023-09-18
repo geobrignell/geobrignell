@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @geobrignell
-- 👀 Always looking for something new to learn! Currently enjoying cybersecurity Capture the Flag puzzles on HackTheBox and learning various data science techniques with the goal of building my own fantasy football prediction algorithm.
+- 👀 Always looking for something new to learn! Enjoy cybersecurity Capture the Flag puzzles on HackTheBox and completing Codewars and Leetcode, and Datapuzzles.com challenges.
+- Codewars : https://www.codewars.com/users/GeorgeBC Leetcode : https://leetcode.com/G33ero/
 - 🌱 Recently completed a BSc Physics with Scientific Computing Degree from the University of Bristol to a High 2:1 Specification.
 - 📫 You may reach me at georgebrignellcash@gmail.com
 
